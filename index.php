@@ -1,1 +1,1 @@
-<?php include_once("portofolio-jorge-bardales.html"); ?>
+<?php include_once("portfolio-jorge-bardales.html"); ?>
